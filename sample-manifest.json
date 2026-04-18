@@ -1,12 +1,12 @@
 {
-  "export_job_id": "66e3d37e-1c57-4ccb-a7cd-71496c91d6cd",
+  "export_job_id": "08f36433-987e-4092-8603-9518f83df8ba",
   "id_short": 658469,
-  "published_at": "2026-04-14T19:07:37Z",
+  "published_at": "2026-04-18T19:38:21Z",
   "repo_name": "restaurant-verified-email-access-in-kentucky-us-sample-658469",
   "sample_asset_name": "beamstation_658469_restaurants-us-ky_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/658469/beamstation_658469_restaurants-us-ky_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "9f4b3520b81d64b3cc921522dc80efc2cb6d7d2792b79237226788d1fdfe9727",
-  "sample_size_bytes": 60196,
-  "total_records": 1007
+  "sample_records": 116,
+  "sample_sha256": "ec1880c968d4d8cb14358310eb78a6ddad85acd509ee6e4fab02f210ce286c46",
+  "sample_size_bytes": 474637,
+  "total_records": 1165
 }

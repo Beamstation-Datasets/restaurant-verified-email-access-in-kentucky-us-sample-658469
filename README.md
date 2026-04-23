@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Kentucky, US
 
-> Free BeamStation sample export with 116 rows and masked direct-contact fields.
+> Free BeamStation sample export with 124 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `658469` |
 | Location | Kentucky |
 | Category | Restaurants |
-| Full dataset size | 1,165 records |
-| Free sample size | 116 records (9.96%) |
-| Last export | 2026-04-15T03:52:24.142514+00:00 |
+| Full dataset size | 1,246 records |
+| Free sample size | 124 records (9.95%) |
+| Last export | 2026-04-22T09:16:57.301959+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-kentucky-us-sample-658469/releases/download/sample-latest/beamstation_658469_restaurants-us-ky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
